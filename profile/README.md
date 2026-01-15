@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Arprax LLC</h1>
+  <h1>Arprax</h1>
   
   <p>
     <b>Data Science. Custom Software. Research.</b>
